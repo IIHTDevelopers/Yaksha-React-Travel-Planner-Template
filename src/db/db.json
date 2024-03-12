@@ -1,0 +1,31 @@
+{
+  "itineraries": [
+    {
+      "title": "Himachal",
+      "description": "Himachal Itinerary",
+      "id": 1
+    }
+  ],
+  "accommodations": [
+    {
+      "name": "Blue Star Hotel",
+      "location": "Manali",
+      "price": "2500",
+      "id": 1
+    }
+  ],
+  "transportations": [
+    {
+      "type": "Road",
+      "details": "Car",
+      "id": 1
+    }
+  ],
+  "budgets": [
+    {
+      "description": "Budget for 5 day trip",
+      "amount": 25000,
+      "id": 1
+    }
+  ]
+}
